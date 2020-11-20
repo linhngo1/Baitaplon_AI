@@ -1,0 +1,1 @@
+java pl -t 1 -kb kb2.txt -q q2.txt -oe output.txt
